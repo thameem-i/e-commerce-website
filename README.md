@@ -1,0 +1,1 @@
+I have done this e-commerce website using the HTML, CSS and JAVACRIPT. This website contains 6 modules they are home page, about page, shop page, blog page, contact page and cart page. I am not done any backend operations in this website. 
